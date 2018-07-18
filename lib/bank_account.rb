@@ -19,3 +19,4 @@ def valid?
 if status=="Open" && balance>0
 end
 end
+end
