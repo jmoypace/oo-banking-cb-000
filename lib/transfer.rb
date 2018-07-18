@@ -21,3 +21,4 @@ class Transfer
     reject_transfer
   end
 end
+end
