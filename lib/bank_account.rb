@@ -17,6 +17,6 @@ end
 
 def valid?
  status=="Open" && balance>0
-end
+
 end
 end
