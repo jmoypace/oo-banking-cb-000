@@ -16,7 +16,7 @@ def display_balance
 end
 
 def valid?
-if status=="Open" && balance>0
+ status=="Open" && balance>0
 end
 end
 end
