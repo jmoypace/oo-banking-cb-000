@@ -8,7 +8,7 @@ class BankAccount
     @status = "open"
   end
 
-def deposit
+def deposit(figure)
 balance+=1000
 end
 end
